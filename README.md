@@ -11,7 +11,7 @@ In your `tsconfig.json`:
 
 ```json
 {
-  "extends": "@ciaran1344/tsconfig-presets",
+  "extends": "@ciaran1344/tsconfig-presets/tsconfig-esm.json",
   // Rest of your tsconfig options here
   "include": ["src"]
 }
